@@ -1,3 +1,7 @@
 TesteGitFlow2
-commit 1
-commmit 2
+
+commit 2
+
+commit 4
+commit 5
+commit 6
